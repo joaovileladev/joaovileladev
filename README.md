@@ -17,9 +17,9 @@
 
 Sou João, estudante de Engenharia de Software na Universidade de Brasília.
 
-Estou no começo da graduação, aprendendo C e os fundamentos de programação, e fazendo em paralelo um curso de lógica de programação na DIO. Já resolvi mais de 100 exercícios, e agora quero transformar essa base em projetos de verdade.
+Estou no começo da graduação, aprendendo C e os fundamentos de programação, e fazendo em paralelo cursos na DIO. Já resolvi mais de 100 exercícios, e agora quero transformar essa base em projetos de verdade.
 
-Ainda não escolhi uma área para seguir, e está tudo bem: estou explorando. Busco minha primeira oportunidade em tecnologia, onde eu possa aprender com um time e contribuir de volta.
+Ainda não escolhi uma área para seguir, estou aberto para o conhecimento. Busco minha primeira oportunidade em tecnologia, onde eu possa aprender com um time e contribuir de volta.
 
 ---
 
